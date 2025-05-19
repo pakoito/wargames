@@ -24,7 +24,7 @@ The board represents a **Battlefied** is split in half, each half belonging to a
 
 The top or bottom border row of their corresponding half is the **Castle** of that Faction.
 
-Each dice in the board represents a Unit and belongs to one Faction. Units are the main pieces of the game, and will move, use skills and deal damage to make a Faction win the game.
+Each dice in the board represents a **Unit** and belongs to one Faction. Units are the main pieces of the game, and will move, use skills and deal damage to make a Faction win the game.
 
 ### Building your Faction
 
@@ -38,7 +38,7 @@ The objective of each Smalltricks Game is for the Units of one Faction to score 
 
 ### Play for Fun
 
-This game is played to have fun. Don't be that guy.
+This game is played to have fun. Don't be that person.
 
 ## Games, Rounds and Turns
 
