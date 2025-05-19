@@ -1,0 +1,58 @@
+/* smalltricks-pdf.css — PDF-optimized, no web fonts, modest headers */
+
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  color: #222;
+  background: white;
+  line-height: 1.5;
+  margin: 2rem;
+}
+
+/* Main title — used for the game title, Smalltricks */
+h1 {
+  font-size: 22pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 2px solid #000;
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Section headers — e.g., Rules of a Match, Setup of the Game */
+h2 {
+  font-size: 16pt;
+  font-weight: bold;
+  color: #111;
+  border-left: 4px solid #000;
+  padding-left: 0.6rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Subsection headers — e.g., Movement, Combat */
+h3 {
+  font-size: 13pt;
+  font-weight: bold;
+  font-style: italic;
+  color: #333;
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+  border-bottom: 1px dashed #999;
+  padding-bottom: 0.2rem;
+}
+
+/* Optional: stylize bold keywords in rules */
+strong {
+  color: #000;
+}
+
+/* Optional: highlight rule terms or keywords with <em> */
+em {
+  font-style: normal;
+  font-weight: bold;
+  background: #f1f1f1;
+  padding: 0 0.15em;
+  border-radius: 2px;
+}

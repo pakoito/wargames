@@ -6,11 +6,11 @@ Games are short and brutal.
 
 # Components
 
-A 6x6 Hexagonal boardgame with flat top hexagons
+A 6x6 Hexagonal boardgame with flat top hexagons.
 
-4-8 dice to represent the Units
+6 dice to represent the Units.
 
-One piece of paper or phone to track the damage on Units
+One piece of paper or phone to track the damage on Units.
 
 # Rules of a Match
 
@@ -32,7 +32,9 @@ Preparing the Unit composition and starting position of your Faction is half of 
 
 Units come in multiple types, each with abilities that make them unique and create rock-paper-scissors situations between them.
 
-# Playing a game
+Optionally, you can roll your Faction at the beggining of a Match or at the beginning of every Game.
+
+# Playing a Game
 
 The objective of each Smalltricks Game is for the Units of one Faction to score more damage to the opponent's Castle than their opponent's, before the Game ends.
 
@@ -46,7 +48,7 @@ Pick a First and Second Faction for the Game. These alternate between Games of a
 
 Each Game is played in Rounds. A Round consists of 3 phases: the First Faction Turn, the Second Faction turn, and the Resolution Turn.
 
-### Rule conflic resolution
+### Rule conflict resolution
 
 If there are simultaneous actions that cannot be resolved simultaneously, the Second Faction decides the order in which they resolve.
 
@@ -60,7 +62,7 @@ This is a game of alpha strikes, so if one Faction has scored at the cost of the
 
 ### Setup of the game
 
-Secretly, arrange your Units in your Faction's half of the Battlefied and tell your opponent when you're ready.
+Secretly arrange your Units in your Faction's half of the Battlefied and tell your opponent when you're ready.
 
 You can use a screen to obstruct the view, or write the arrangement in your phone or a piece of paper.
 
