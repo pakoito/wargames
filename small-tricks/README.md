@@ -1,6 +1,6 @@
 # Smalltricks
 
-Smalltricks is a quick game about the first engagement between two Factions, a game of chess' opening moves, a game of parry and riposte.
+Smalltricks is a quick game about the first engagement between two armies, a game of chess' opening moves, a game of parry and riposte.
 
 Games are short and brutal.
 
@@ -28,11 +28,11 @@ Each dice in the board represents a **Unit** and belongs to one Faction. Units a
 
 ### Building your Faction
 
-Preparing the Unit composition and starting position of your Faction is half of the fun of the game.
+Preparing the Unit composition and starting arrangement of your Faction is half of the fun of the game.
 
 Units come in multiple types, each with abilities that make them unique and create rock-paper-scissors situations between them.
 
-Optionally, you can roll your Faction at the beggining of a Match or at the beginning of every Game.
+You can create your own variants such as rolling your Faction at the beggining of a Match, at the beginning of each Game. If you do, consider allowing other sub-variants such as allowing reroll(s) or shifting dice up/down by 1.
 
 # Playing a Game
 
@@ -97,7 +97,7 @@ Ranges are calculated counting hexagons from the origin hexagon, in any of the p
 
 A Unit is considered Engaged if they are in the same hexagon as a Unit of an opposing Faction.
 
-An Engaged unit cannot move (??? TODO), cannot use Abilities and cannot damage a Castle.
+An Engaged unit cannot move, cannot use Abilities and cannot damage a Castle.
 
 #### Two Units per Faction limit
 
@@ -159,27 +159,45 @@ Units are what your Faction is composed of. They are arranged in a power triangl
 
 Unless a special rule applies, All Units can move 1 hexagon per Movement, deal 2 damage in Combat, and have 5 points of life.
 
-### Unit Types [Dice Face] - Faction Building Cost X
+### Unit Types [Dice Face]
 
-#### Archers \[1\] - Cost 1
+#### Archers \[1\]
 
-- Volley (Ranged Ability): Deal 2 damage to a unit in Range 2.
+- Volley (Ranged Ability): Deal 2 damage to a Unit in Range 2.
   - -1 damage if this Unit has moved this turn.
   - -1 damage if the target is not the same as last time this ability was used, i.e. choosing a new target, or coming out of an Engagement.
 
-#### Battery [2] - Cost 1
+#### Cannons \[2\]
+
+- Mortar Fire (Ranged Ability): Deals 1 damage to all Units in a hexagon in Range 2. _NOTE: That also includes your Faction Units._
+
+#### Mounted \[3\]
+
+- Charge (Movement Ability): Move 1 additional hexagon this turn. If you move 2 hexagons and end in a hexagon where you Engage with an opponent Unit, deal 2 damage to that Unit. _NOTE: Spears can counter Charge, dealing the damage to this Unit instead._
+
+#### Assault \[4\]
+
+- Trample (Movement Ability): This Unit can move even when Engaged. When entering an hexagon with opponent Units, deal 1 damage to each Unit.
+
+#### Spears \[5\]
+
+- Spear (Melee Ability): Deal 1 damage to a unit in Range 1.
+- Counter Charge (Movement Ability): If this Unit is in the hexagon that is the target of a Charge by an opponent Mounted Unit, then the Mounted Unit receives the 2 damage instead.
+
+#### Battery Ram \[6\]
 
 - Crash Through (Melee Ability): If this Unit is at the opponent's Castle and is not Engaged, you win the Game.
 
-#### Spears \[3\] - Cost 1
+### Alternative Unit Types [Dice Face]
 
-- Spear (Melee Ability): Deal 1 damage to a unit in Range 1.
-- Counter-charge (Movement Ability): If this Unit is in the hexagon that is the target of a Charge by an opponent Mounted Unit, then the Mounted Unit receives the 2 damage instead.
+#### Muskets \[2\]
 
-#### Mounted \[5\] - Cost 1
+- Fire! (Ranged Ability): If this Unit didn't move, deal 1 damage to all opponent Units in a hexagon in the same column.
 
-- Charge (Movement Ability): Move 1 additional hexagon this turn. If you move 2 hexagons and end in a hexagon where you Engage with an opponent Unit, deal 2 damage to that Unit. NOTE: Spears can counter -Charge, dealing the damage to this Unit instead.
+#### Aerial \[4\]
 
-#### Assault [6] - Cost 2
+- Assault (Movement Ability): Move to any hexagon without a Unit in it.
 
-- Trample (Movement Ability): This Unit can move even when Engaged. When entering an hexagon with opponent Units, deal 1 damage to each Unit.
+#### Swords \[6\]
+
+- Melee expertise: This unit deals 3 damage in Combat.
