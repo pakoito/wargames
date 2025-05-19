@@ -169,11 +169,13 @@ Unless a special rule applies, All Units can move 1 hexagon per Movement, deal 2
 
 #### Cannons \[2\]
 
-- Mortar Fire (Ranged Ability): Deals 1 damage to all Units in a hexagon in Range 2. _NOTE: That also includes your Faction Units._
+- Mortar Fire (Ranged Ability): Deals 1 damage to all Units in a hexagon in Range 2.
+  _NOTE: That also includes your Faction Units._
 
 #### Mounted \[3\]
 
-- Charge (Movement Ability): Move 1 additional hexagon this turn. If you move 2 hexagons and end in a hexagon where you Engage with an opponent Unit, deal 2 damage to that Unit. _NOTE: Spears can counter Charge, dealing the damage to this Unit instead._
+- Charge (Movement Ability): Move 1 additional hexagon this turn. If you move 2 hexagons and end in a hexagon where you Engage with an opponent Unit, deal 2 damage to that Unit.
+  _NOTE: Spears can counter Charge, dealing the damage to this Unit instead._
 
 #### Assault \[4\]
 
