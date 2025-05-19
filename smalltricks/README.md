@@ -32,7 +32,7 @@ Preparing the Unit composition and starting arrangement of your Faction is half 
 
 Units come in multiple types, each with abilities that make them unique and create rock-paper-scissors situations between them.
 
-You can create your own variants such as rolling your Faction at the beggining of a Match, at the beginning of each Game. If you do, consider allowing other sub-variants such as allowing reroll(s) or shifting dice up/down by 1.
+_You can create your own variants such as rolling your Faction at the beggining of a Match, at the beginning of each Game. If you do, consider allowing other sub-variants such as allowing reroll(s) or shifting dice up/down by 1._
 
 # Playing a Game
 
