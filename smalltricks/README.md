@@ -54,6 +54,16 @@ If there are simultaneous actions that cannot be resolved simultaneously, the Se
 
 ### The end of the Game
 
+#### NEW
+
+When a player ends one Round with 2 more damage on their castle than their opponent, they lose.
+
+When a player ends two consecutive Rounds with 1 more damage on their castle than their opponent, they lose.
+
+Otherwise, if the damage is even and a Faction has overwhelmingly more Unit power left they are considered the winner. This could mean the game ends in a draw if there is no clear winner.
+
+#### OLD
+
 A Game ends when it feels like it is done, generally 5-7 Rounds. This is understood between the players when both Factions have taken losses and the options now are limited to retreating and rearming, where Factions would need several rounds of slowly manouvering to score, or scoring is too simple because there are few Units left in the **Battlefield** to defend.
 
 The winner of the Game is the Faction that has dealt the most damage to the opponent's Castle. If the damage is even and a Faction has overwhelmingly more Unit power left they are considered the winner. This could mean the game ends in a draw if there is no clear winner.
@@ -78,6 +88,8 @@ During the Resolution turn, several sub-turns are resolved in order:
 - Melee Abilities: Melee abilities from Units not Engaged are applied now.
 - Ranged Abilities: Ranged abilities from Units not Engaged are applied now.
 - Castle Damage: Any unit in an opposing Castle row that has not Engaged deals damage to the castle.
+
+(??? TODO Combat as last action? Ranged before melee?)
 
 ## Faction Turn
 
@@ -105,7 +117,8 @@ Each hexagon can contain up to two units of the same Faction. That means each he
 
 #### One-and-two Engagements
 
-If a Faction has a single Unit in a hexagon, and the opposing faction has two, the Player of the Faction with the single Unit (??? TODO) decides which opposing Unit is Engaged for the purpose of preventing their Abilities to trigger during the Resolution Turn.
+If a Faction has a single Unit in a hexagon, and the opposing faction has two, the Player of the Faction with the single Unit decides which opposing Unit is Engaged for the purpose of preventing their Abilities to trigger during the Resolution Turn.
+(??? TODO decide engagement upon entering the hexagon, make it "sticky")
 
 The Faction with the unit that remains not Engaged can choose in the Resolution Turn whether to Engage to resolve a Combat or use their Abilities instead.
 
@@ -157,7 +170,7 @@ Units are what your Faction is composed of. They are arranged in a power triangl
 
 ### Base Stats
 
-Unless a special rule applies, All Units can move 1 hexagon per Movement, deal 2 damage in Combat, and have 5 points of life.
+Unless a special rule applies, All Units can move 1 hexagon per Movement, have a Range of 0, deal 2 damage in Combat, and have 5 points of life.
 
 ### Unit Types [Dice Face]
 
@@ -174,17 +187,17 @@ Unless a special rule applies, All Units can move 1 hexagon per Movement, deal 2
 
 #### Mounted \[3\]
 
-- Charge (Movement Ability): Move 1 additional hexagon this turn. If you move 2 hexagons and end in a hexagon where you Engage with an opponent Unit, deal 2 damage to that Unit.
+- Charge (Movement Ability): Move 1 additional hexagon this turn. If you move 2 hexagons and end in a hexagon where you Engage with one or two opponent Units, deal 2 damage to one the Units of your choice. You can move through hexagons with 2 Units of your Fation, but you cannot end movement there.
   _NOTE: Spears can counter Charge, dealing the damage to this Unit instead._
 
-#### Assault \[4\]
+#### Assault Beasts \[4\]
 
-- Trample (Movement Ability): This Unit can move even when Engaged. When entering an hexagon with opponent Units, deal 1 damage to each Unit.
+- Trample (Movement Ability): This Unit can move even when Engaged. (TODO ??? When entering an hexagon with opponent Units, deal 1 damage to each Unit.)
 
 #### Spears \[5\]
 
 - Spear (Melee Ability): Deal 1 damage to a unit in Range 1.
-- Counter Charge (Movement Ability): If this Unit is in the hexagon that is the target of a Charge by an opponent Mounted Unit, then the Mounted Unit receives the 2 damage instead.
+- Counter Charge (Movement Ability): If this Unit is (??? TODO in Range 1 of) the hexagon that is the target of a Charge by an opponent Mounted Unit, then the Mounted Unit receives the 2 damage instead.
 
 #### Battery Ram \[6\]
 
@@ -194,12 +207,14 @@ Unless a special rule applies, All Units can move 1 hexagon per Movement, deal 2
 
 #### Muskets \[2\]
 
-- Fire! (Ranged Ability): If this Unit didn't move, deal 1 damage to all opponent Units in a hexagon in the same column.
+- Fire! (Ranged Ability): (??? TODO If Muskets did not move this turn,) Deal 1 damage to all opponent Units in hexagons in the same column as the Muskets.
 
 #### Aerial \[4\]
 
 - Assault (Movement Ability): Move to any hexagon without a Unit in it.
 
-#### Swords \[6\]
+#### Militia \[6\]
+
+- Rowdy Crowd: Only one Militia Unit per Faction per hexagon.
 
 - Melee expertise: This unit deals 3 damage in Combat.
