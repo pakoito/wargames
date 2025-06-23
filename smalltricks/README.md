@@ -8,9 +8,11 @@ Games are quick and brutal.
 
 This is a live document. I will include notes about rule tweaks that I am considering, generally marked in parenthesis as TODO.
 
-You can give feedback in this BGG thread: [https://boardgamegeek.com/thread/3531621/playtesting-smalltricks-opening-moves-and-tactics](https://boardgamegeek.com/thread/3531621/playtesting-smalltricks-opening-moves-and-tactics)
+You can give feedback in this thread:
+[](https://boardgamegeek.com/thread/3531621/playtesting-smalltricks-opening-moves-and-tactics)
 
-The game is part of the 2025 Two Player Print and Play Design Contest Entry you can find in this BGG thread: [https://boardgamegeek.com/thread/3530940/2025-two-player-print-and-play-game-design-contest](https://boardgamegeek.com/thread/3530940/2025-two-player-print-and-play-game-design-contest)
+The game is part of the 2025 Two Player Print and Play Design Contest Entry you can find in this thread:
+[](https://boardgamegeek.com/thread/3530940/2025-two-player-print-and-play-game-design-contest)
 
 # Components
 
@@ -66,21 +68,11 @@ If there are simultaneous actions that cannot be resolved simultaneously, the Se
 
 ### The end of the Game
 
-#### NEW - Damage and Hold
-
 When a player ends one Round with 2 more damage on their Castle than their opponent, they lose.
 
 When a player ends 2 consecutive Rounds with 1 more damage on their Castle than their opponent, they lose.
 
 Otherwise, if the damage is even and a Faction has overwhelmingly more Unit power left they are considered the winner. This could mean the game ends in a draw if there is no clear winner.
-
-#### (??? TODO) - OLD - Player-driven
-
-A Game ends when it feels like it is done, generally 5-7 Rounds. This is understood between the players when both Factions have taken losses and the options now are limited to retreating and rearming, where Factions would need several rounds of slowly manouvering to score, or scoring is too simple because there are few Units left in the **Battlefield** to defend.
-
-The winner of the Game is the Faction that has dealt the most damage to the opponent's Castle. If the damage is even and a Faction has overwhelmingly more Unit power left they are considered the winner. This could mean the game ends in a draw if there is no clear winner.
-
-This is a game of alpha strikes, so if one Faction has scored at the cost of their Units, the fact that the other Faction can spend 4-5 rounds counter-attacking to score didn't make them the winner. This smoothens over time because to win a Match is to be the winner of several Games, so Players have to be flexible with these rulings.
 
 ### Setup of the game
 
