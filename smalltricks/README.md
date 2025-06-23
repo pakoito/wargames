@@ -10,7 +10,7 @@ This is a live document. I will include notes about rule tweaks that I am consid
 
 # Components
 
-A 6x6 Hexagonal boardgame with flat top hexagons. It should come with the rules.
+A 6x6 Hexagonal boardgame with flat top hexagons. A printable image should come with the rules.
 
 12 dice to represent the Units. Using d6 is the default, but use any dice or token of your liking.
 
