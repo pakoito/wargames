@@ -4,17 +4,23 @@ Smalltricks is a quick game about the first engagement between two armies, a gam
 
 Games are short and brutal.
 
+# Building in the Open
+
+This is a live document. I will include notes about rule tweaks that I am considering, generally marked in parenthesis as TODO.
+
 # Components
 
-A 6x6 Hexagonal boardgame with flat top hexagons.
+A 6x6 Hexagonal boardgame with flat top hexagons. It should come with the rules.
 
-6 dice to represent the Units.
+12 dice to represent the Units. Using d6 is the default, but use any dice or token of your liking.
 
-One piece of paper or phone to track the damage on Units.
+Pen and paper, or a phone to track the damage on Units.
 
 # Rules of a Match
 
-A Smalltricks match is played in a series of short games, of any amount of your choice or as time permits or the players agree to: single match, best of 3, best of 5, first to 10...
+A Smalltricks Match is played in a series of short Games, of any amount of your choice or as time permits or the players agree to: single Match, best of 3, best of 5, first to 10...
+
+The starting player alternates between Games of a Match. Decide by dice roll or any other method which player starts in the first Game.
 
 ### Components
 
@@ -24,13 +30,15 @@ The board represents a **Battlefied** is split in half, each half belonging to a
 
 The top or bottom border row of their corresponding half is the **Castle** of that Faction.
 
-Each dice in the board represents a **Unit** and belongs to one Faction. Units are the main pieces of the game, and will move, use skills and deal damage to make a Faction win the game.
+Each dice in the board represents a **Unit** and belongs to one Faction. Units are the main pieces of the game, and will move, use skills and deal damage to make a Faction win the game. Each Faction is composed by 6 Units.
 
 ### Building your Faction
 
 Preparing the Unit composition and starting arrangement of your Faction is half of the fun of the game.
 
-Units come in multiple types, each with abilities that make them unique and create rock-paper-scissors situations between them.
+Build your Faction out of 6 Units. You can have multiples of the same Unit.
+
+Units come in many types, each with abilities that make them unique and create rock-paper-scissors situations between them.
 
 _You can create your own variants such as rolling your Faction at the beggining of a Match, at the beginning of each Game. If you do, consider allowing other sub-variants such as allowing reroll(s) or shifting dice up/down by 1._
 
@@ -54,15 +62,15 @@ If there are simultaneous actions that cannot be resolved simultaneously, the Se
 
 ### The end of the Game
 
-#### NEW
+#### NEW - Damage and Hold
 
-When a player ends one Round with 2 more damage on their castle than their opponent, they lose.
+When a player ends one Round with 2 more damage on their Castle than their opponent, they lose.
 
-When a player ends two consecutive Rounds with 1 more damage on their castle than their opponent, they lose.
+When a player ends 2 consecutive Rounds with 1 more damage on their Castle than their opponent, they lose.
 
 Otherwise, if the damage is even and a Faction has overwhelmingly more Unit power left they are considered the winner. This could mean the game ends in a draw if there is no clear winner.
 
-#### OLD
+#### OLD - Player-driven
 
 A Game ends when it feels like it is done, generally 5-7 Rounds. This is understood between the players when both Factions have taken losses and the options now are limited to retreating and rearming, where Factions would need several rounds of slowly manouvering to score, or scoring is too simple because there are few Units left in the **Battlefield** to defend.
 
