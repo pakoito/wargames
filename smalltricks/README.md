@@ -2,11 +2,15 @@
 
 Smalltricks is a quick game about the first engagement between two armies, a game of chess' opening moves, a game of parry and riposte.
 
-Games are short and brutal.
+Games are quick and brutal.
 
 # Building in the Open
 
 This is a live document. I will include notes about rule tweaks that I am considering, generally marked in parenthesis as TODO.
+
+You can give feedback in this BGG thread: [https://boardgamegeek.com/thread/3531621/playtesting-smalltricks-opening-moves-and-tactics](https://boardgamegeek.com/thread/3531621/playtesting-smalltricks-opening-moves-and-tactics)
+
+The game is part of the 2025 Two Player Print and Play Design Contest Entry you can find in this BGG thread: [https://boardgamegeek.com/thread/3530940/2025-two-player-print-and-play-game-design-contest](https://boardgamegeek.com/thread/3530940/2025-two-player-print-and-play-game-design-contest)
 
 # Components
 
@@ -70,7 +74,7 @@ When a player ends 2 consecutive Rounds with 1 more damage on their Castle than 
 
 Otherwise, if the damage is even and a Faction has overwhelmingly more Unit power left they are considered the winner. This could mean the game ends in a draw if there is no clear winner.
 
-#### OLD - Player-driven
+#### (??? TODO) - OLD - Player-driven
 
 A Game ends when it feels like it is done, generally 5-7 Rounds. This is understood between the players when both Factions have taken losses and the options now are limited to retreating and rearming, where Factions would need several rounds of slowly manouvering to score, or scoring is too simple because there are few Units left in the **Battlefield** to defend.
 
