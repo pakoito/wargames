@@ -201,13 +201,15 @@ Unless a special rule applies, All Units can move 1 hexagon per Movement, have a
 #### Spears \[5\]
 
 - Spear (Melee Ability): Deal 1 damage to a unit in Range 1.
-- Counter Charge (Movement Ability): If this Unit is (??? TODO in Range 1 of) the hexagon that is the target of a Charge by an opponent Mounted Unit, then the Mounted Unit receives the 2 damage instead.
+- Counter Charge (Movement Ability): If this Unit is (??? TODO in Range 1 of) the hexagon that is the target of a Charge by an opponent Mounted Unit, then the Mounted Unit's charge deals no damage and the Mounted Unit receives 3 damage instead.
 
-#### Battery Ram \[6\]
+#### Jesters \[6\]
 
-- Crash Through (Melee Ability): If this Unit is at the opponent's Castle and is not Engaged, you win the Game.
+- Taunt (Movement Ability): Instead of moving, this Unit can force an opponent Unit in Range 1 to move into their hexagon.
 
-### Alternative Unit Types [Dice Face]
+### Alternative Unit Types [Suggested Dice Face]
+
+You can use these units instead of the basic ones to spice things up. It is recommended to always keep the Archers-Mounted-Spears trifecta.
 
 #### Muskets \[2\]
 
@@ -222,3 +224,7 @@ Unless a special rule applies, All Units can move 1 hexagon per Movement, have a
 - Rowdy Crowd: Only one Militia Unit per Faction per hexagon.
 
 - Melee expertise: This unit deals 3 damage in Combat.
+
+#### Battery Ram \[6\]
+
+- Crash Through (Melee Ability): If this Unit is at the opponent's Castle and is not Engaged, you win the Game.

@@ -1,3 +1,9 @@
+# draft-0.3
+
+- Add Taunters and make them the default 6 unit
+- Clarify what Alt units are there for
+- Counter-charge now deals one extra damage
+
 # draft-0.2
 
 After Tay's feedback:
