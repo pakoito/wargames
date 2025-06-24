@@ -217,15 +217,15 @@ You can use these units instead of the basic ones to spice things up. It is reco
 
 #### Aerial \[4\]
 
-- Assault (Movement Ability): Move to any hexagon without a Unit in it.
+- Assault (Movement Ability): Move to any hexagon without a Unit in it, nor any hexagon of the opponent's Castle.
 
 #### Commander \[4\]
 
-- Forward! (Movement Ability): Instead of moving, force another allied Unit in Range 2 to move one hexagon.
+- Forward! (Movement Ability): Instead of moving, force another allied Unit in Range 2 to move 1 hexagon.
 
 #### Militia \[6\]
 
-- Rowdy Crowd: Only one Militia Unit per Faction per hexagon.
+- Rowdy Crowd: Only 1 Militia Unit per Faction per hexagon.
 
 - Melee expertise: This unit deals 3 damage in Combat.
 

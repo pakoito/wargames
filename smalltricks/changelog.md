@@ -5,6 +5,7 @@
   - Add Commander as an Alt 4 Unit
 - Clarify what Alt units are there for
 - Counter-charge now deals one extra damage
+- Fixes to Aerial
 
 # draft-0.2
 
