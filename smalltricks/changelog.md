@@ -1,3 +1,7 @@
+# draft-0.4
+
+- Split the rules in short and full
+
 # draft-0.3
 
 - Two new Units focused on movement:
