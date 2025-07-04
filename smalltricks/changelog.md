@@ -1,6 +1,9 @@
 # draft-0.4
 
-- Split the rules in short and full
+- Split the rules into short and full
+- Examples!
+- Rename Faction and Resolution Turn to Phase
+- Cannons don't damage allies, but should not move
 
 # draft-0.3
 

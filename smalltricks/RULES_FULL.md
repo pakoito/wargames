@@ -56,11 +56,11 @@ The objective of each Smalltricks Game is for the Units of one Faction to score 
 
 This game is played to have fun. Don't be that person.
 
-## Games, Rounds and Turns
+## Games, Rounds and Phases
 
 Pick a First and Second Faction for the Game. These alternate between Games of a Matches. Pick or roll the First Faction for the first Game.
 
-Each Game is played in Rounds. A Round consists of 3 phases: the First Faction Turn, the Second Faction turn, and the Resolution Turn.
+Each Game is played in Rounds. A Round consists of 3 phases: the First Faction phase, the Second Faction phase, and the Resolution phase.
 
 ### Rule conflict resolution
 
@@ -80,13 +80,13 @@ Secretly arrange your Units in your Faction's half of the Battlefied and tell yo
 
 You can use a screen to obstruct the view, or write the arrangement in your phone or a piece of paper.
 
-### Faction Turns
+### Faction Phase
 
-During a Faction turn, the Player gets to activate all of their Units. They activate the Units one by one, moving the Unit according to their type. A Unit cannot be activated twice in the same turn.
+During a Faction phase, the Player gets to activate all of their Units. They activate the Units one by one, moving the Unit according to their type. A Unit cannot be activated twice in the same phase.
 
-### Resolution Turn
+### Resolution Phase
 
-During the Resolution turn, several sub-turns are resolved in order:
+During the Resolution phase, several sub-phases are resolved in order:
 
 - Combats: Opposing Units in the same hexagon are considered Engaged and have to resolve a Combat. All combats are considered to resolve simultaneously.
 - Melee Abilities: Melee abilities from Units not Engaged are applied now.
@@ -95,7 +95,7 @@ During the Resolution turn, several sub-turns are resolved in order:
 
 (??? TODO Combat as last action? Ranged before melee?)
 
-## Faction Turn
+## Faction Phase
 
 ### Units on the battlefield
 
@@ -121,18 +121,18 @@ Each hexagon can contain up to two units of the same Faction. That means each he
 
 #### One-and-two Engagements
 
-If a Faction has a single Unit in a hexagon, and the opposing faction has two, the Player of the Faction with the single Unit decides which opposing Unit is Engaged for the purpose of preventing their Abilities to trigger during the Resolution Turn.
+If a Faction has a single Unit in a hexagon, and the opposing faction has two, the Player of the Faction with the single Unit decides which opposing Unit is Engaged for the purpose of preventing their Abilities to trigger during the Resolution Phase.
 (??? TODO decide engagement upon entering the hexagon, make it "sticky")
 
-The Faction with the unit that remains not Engaged can choose in the Resolution Turn whether to Engage to resolve a Combat or use their Abilities instead.
+The Faction with the unit that remains not Engaged can choose in the Resolution Phase whether to Engage to resolve a Combat or use their Abilities instead.
 
 #### Death
 
 When a Unit has take all damage they allow and their life is reduced to 0 or less, they are immediatelly removed from play.
 
-### Turn actions
+### Phase actions
 
-During their Faction Turn, the player activates their Units, one by one, to do a Movement.
+During their Faction Phase, the player activates their Units, one by one, to do a Movement.
 
 #### Movement
 
@@ -144,11 +144,11 @@ Units can move through their allied Units, but stop and become Engaged if they e
 
 Follow the rules of the Unit type to see whether special Movement Abilities apply.
 
-## Resolution Turn
+## Resolution Phase
 
 ### Combat
 
-Combat is resolved as the first sub-turn of the Resolution Turn.
+Combat is resolved as the first sub-phase of the Resolution Phase.
 
 Units Engaged in a Combat, up to two per Faction due to the limit per hexagon, deal 2 damage per Unit Engaged. The damage can be divided any way they choose between any opposing Units Engaged in the same Combat.
 
@@ -164,6 +164,6 @@ First, all Melee abilities resolve simultaneously, then all Ranged abilities res
 
 ### Castle Damage
 
-Castle damage is resolved as the last sub-turn of the Resolution Turn.
+Castle damage is resolved as the last sub-phase of the Resolution Phase.
 
-To score damage, a Unit must be in the Castle row while not Engaged at the end of a Resolution Turn.
+To score damage, a Unit must be in the Castle row while not Engaged at the end of a Resolution Phase.

@@ -14,10 +14,9 @@ Unless a special rule applies, All Units can move 1 hexagon per Movement, have a
   - -1 damage if this Unit has moved this turn.
   - -1 damage if the target is not the same as last time this ability was used, i.e. choosing a new target, or coming out of an Engagement.
 
-#### Cannons \[2\]
+#### Cannon \[2\]
 
-- Mortar Fire (Ranged Ability): Deals 1 damage to all Units in a hexagon in Range 2.
-  _NOTE: That also includes your Faction Units._
+- Mortar Fire (Ranged Ability): If this Unit has not moved, it deals 1 damage to all opponent Units in a hexagon in Range 2.
 
 #### Mounted \[3\]
 
@@ -30,7 +29,7 @@ Unless a special rule applies, All Units can move 1 hexagon per Movement, have a
 
 #### Spears \[5\]
 
-- Spear (Melee Ability): Deal 1 damage to a unit in Range 1.
+- Pierce (Melee Ability): Deal 1 damage to a unit in Range 1.
 - Counter Charge (Movement Ability): If this Unit is (??? TODO in Range 1 of) the hexagon that is the target of a Charge by an opponent Mounted Unit, then the Mounted Unit's charge deals no damage and the Mounted Unit receives 3 damage instead.
 
 #### Jesters \[6\]
