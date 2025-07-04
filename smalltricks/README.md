@@ -18,11 +18,11 @@ Once factions are chosen, each player secretly arranges their units on their hal
 
 Gameplay happens in rounds. Each round, starting with the first player, each players alternate a Faction phase where they move all their units. Then, a Resolution phase happens for both.
 
-During a faction phase each unit moves up to 1 hexagon. Only 2 units per faction can be in the same hexagon. If your unit ends up in the same space as an enemy, they’re "engaged in combat", end their movement and must fight during the Resolution phase.
+During a Faction phase each unit moves up to 1 hexagon. Only 2 units per faction can be in the same hexagon. If your unit ends up in the same space as an enemy, they’re "engaged in combat", end their movement and must fight during the Resolution phase.
 
 If any unit receives 5 or more damage via combat or abilities it is immediately removed from the board.
 
-After both players have activated all their units, the round’s Resolution phase begins. First, all battles are resolved simultaneously, where each unit deals 2 damage to opponent units split any way the players want.
+After both players have moved all their units, the round’s Resolution phase begins. First, all battles are resolved simultaneously, where each unit deals 2 damage to opponent units split any way the players want.
 
 > Example A: In the same hexagon, the first player has a Spear Unit with 2 damage and the second player has a Mounted unit with 3 damage. They deal 2 damage to each other. The unit from the second player has received 6 damage in total and is removed from the battlefield. The unit from the first player has received 4 damage and remains in play, barely alive!
 
